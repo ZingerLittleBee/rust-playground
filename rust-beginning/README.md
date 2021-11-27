@@ -16,7 +16,7 @@ step
 2. convert `AST` what datasource parsed by sqlparser to [polars']("https://github.com/pola-rs/polars") DataFrame
 
 ## queryer-py
-see [queryer-py.md]("https://github.com/ZingerLittleBee/rust-playground/tree/master/queryer-py")
+see [queryer-py.md](https://github.com/ZingerLittleBee/rust-playground/tree/master/rust-beginning/queryer-py)
 
 ## queryer-node
-see [queryer-node.md]("https://github.com/ZingerLittleBee/rust-playground/tree/master/queryer-node")
+see [queryer-node.md](https://github.com/ZingerLittleBee/rust-playground/tree/master/rust-beginning/queryer-node)
