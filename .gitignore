@@ -12,3 +12,4 @@
 # local
 **/.history
 **/.env
+**/node_modules
